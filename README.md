@@ -8,3 +8,4 @@ Table of Contents
 
 - [Reading Assignment 201-01](/class-01.md)
 - [Reading Assignment 201-02](/class-02.md)
+- [Reading Assignment 201-03](/class-03.md)
