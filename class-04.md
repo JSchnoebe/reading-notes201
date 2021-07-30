@@ -2,7 +2,7 @@
 
 ## Links
 
-Links are created using the element **a**. When you want to specify the page you want to link to, you use the href attribute. There are other way to use links as well, like using mailto. This is used to link to an email. 
+Links are created using the element **a**. When you want to specify the page you want to link to, you use the href attribute. There are other way to use links as well, like using mailto. This is used to link to an email.
 
 ## Layout
 
@@ -10,7 +10,4 @@ Block-Level elements, flow, and positioning, are three keys to a good page layou
 
 ## Functions, Methods, and Objects
 
-
-
 ## Reasons For Pairing Programming
-

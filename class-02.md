@@ -6,7 +6,7 @@ HTML is a very important language in coding. HTML, also known as, Hyper Text Mar
 
 ## CSS
 
-CSS is used to make your webpage more attractive. So when you have your HTML finished, the page will be very plain and the text is layed out from top to bottom of the page with no real organization. Not only can CSS help with making your page more attractive, it can also make it easier to read and navigate for the user. CSS is layed out with the selector being first, and the declaration after. The declaration is split up into two parts, the property and the value. Here is an example: 
+CSS is used to make your webpage more attractive. So when you have your HTML finished, the page will be very plain and the text is layed out from top to bottom of the page with no real organization. Not only can CSS help with making your page more attractive, it can also make it easier to read and navigate for the user. CSS is layed out with the selector being first, and the declaration after. The declaration is split up into two parts, the property and the value. Here is an example:
 p{
 color: red;}
 
