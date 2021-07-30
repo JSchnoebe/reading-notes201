@@ -2,7 +2,7 @@
 
 ## Images
 
-Images are used on virtually every website you see on the internet. When coding a website, the "<im>" element can be used to add an image to your page. That image could be anything from a graph to a logo of a company.
+Images are used on virtually every website you see on the internet. When coding a website, the image element can be used to add an image to your page. That image could be anything from a graph to a logo of a company.
 
 ## Color
 
