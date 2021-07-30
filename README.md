@@ -10,4 +10,4 @@ Table of Contents
 - [Reading Assignment 201-02](/class-02.md)
 - [Reading Assignment 201-03](/class-03.md)
 - [Reading Assignment 201-04](/class-04.md)
-- [Reading Assignment 201-04](/class-05.md)
+- [Reading Assignment 201-05](/class-05.md)
