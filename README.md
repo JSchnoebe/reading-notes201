@@ -13,4 +13,5 @@ Table of Contents
 - [Reading Assignment 201-05](/class-05.md)
 - [Reading Assignment 201-06](/class-06.md)
 - [Reading Assignment 201-07](/class-07.md)
-- [Reading Assignment 201-08](/class=08.md)
+- [Reading Assignment 201-08](/class-08.md)
+- [Reading Assignment 201-09](/class-09.md)
